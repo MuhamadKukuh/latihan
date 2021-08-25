@@ -1,0 +1,2 @@
+# latihan
+lorem5
